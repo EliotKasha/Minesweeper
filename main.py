@@ -187,7 +187,10 @@ class Game:
                 self.flags = 0
 
         if pygame.key.get_pressed()[pygame.K_RETURN]:
-            webbrowser.open("https://github.com/T-fXD/Minesweeper")
+            webbrowser.open("https://github.com/T-fXD/Minesweeper/blob/main/main.py")
+
+            # To avoid multiple tabs opening
+            pygame.time.delay(100)
 
     # Recusive function to auto-expand tiles with no bombs around them
     def flood(self):
