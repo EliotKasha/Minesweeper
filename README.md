@@ -1,2 +1,2 @@
 # Minesweeper
-Crazy old project revived ;-;
+Uhhhh don't click the mines, yada yada...
