@@ -1,2 +1,2 @@
 # Minesweeper
-Uhhhh don't click the mines, yada yada...
+Self Explanatory
